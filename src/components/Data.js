@@ -1,35 +1,35 @@
 
 export const projects = [
     {
-      title: "React Reserve",
-      subtitle: "MERN Stack",
+      title: "Fivepoints.fr",
+      subtitle: "MEAN Stack",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-1.gif",
-      link: "https://reactbootcamp.com",
+        "ce projet consiste de migrer sa partie backend de Spring boot vers Nest js et consommation API dans  la partie frontend",
+      image: "https://www.tic-nova.com/wp-content/uploads/2020/04/angular-10.png",
+      // link: "https://reactbootcamp.com",
     },
     {
-      title: "React Tracks",
-      subtitle: "React and Python",
+      title: "CRM",
+      subtitle: "Node js",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-2.gif",
-      link: "https://reedbarger.com",
+      image: "https://logosvector.net/wp-content/uploads/2015/09/nodejs-logo.png",
+      // link: "https://reedbarger.com",
     },
     {
-      title: "DevChat",
-      subtitle: "React and Firebase",
+      title: "Secretaire médicale",
+      subtitle: "Nest js",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-3.gif",
-      link: "https://jsbootcamp.com",
+      image: "https://cdn.dribbble.com/users/808903/screenshots/3831862/dribbble_szablon__1_1.png",
+      // link: "https://cdn.dribbble.com/users/808903/screenshots/3831862/dribbble_szablon__1_1.png",
     },
     {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
+      title: "Todo App",
+      subtitle: "React Redux",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-4.gif",
+      image: "https://www.vhv.rs/dpng/d/612-6126558_react-logo-png-react-js-logo-svg-transparent.png",
       link: "https://pythonbootcamp.com",
     },
   ];
